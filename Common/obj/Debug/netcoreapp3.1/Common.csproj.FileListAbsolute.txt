@@ -1,0 +1,5 @@
+D:\THACO\TEST\Example_Project\Example_Project\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\THACO\TEST\Example_Project\Example_Project\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\THACO\TEST\Example_Project\Example_Project\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\THACO\TEST\Example_Project\Example_Project\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\THACO\TEST\Example_Project\Example_Project\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache

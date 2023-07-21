@@ -1,0 +1,17 @@
+D:\THACO\TEST\Example_Project\Example_Project\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\THACO\TEST\Example_Project\Example_Project\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\THACO\TEST\Example_Project\Example_Project\Repository\bin\Debug\net6.0\Repository.dll
+D:\THACO\TEST\Example_Project\Example_Project\Repository\bin\Debug\net6.0\Repository.pdb
+D:\THACO\TEST\Example_Project\Example_Project\Repository\bin\Debug\net6.0\Common.dll
+D:\THACO\TEST\Example_Project\Example_Project\Repository\bin\Debug\net6.0\Common.pdb
+D:\THACO\TEST\Example_Project\Example_Project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\THACO\TEST\Example_Project\Example_Project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\THACO\TEST\Example_Project\Example_Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\THACO\TEST\Example_Project\Example_Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\THACO\TEST\Example_Project\Example_Project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\THACO\TEST\Example_Project\Example_Project\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\THACO\TEST\Example_Project\Example_Project\Repository\obj\Debug\net6.0\Repository.dll
+D:\THACO\TEST\Example_Project\Example_Project\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\THACO\TEST\Example_Project\Example_Project\Repository\obj\Debug\net6.0\Repository.pdb
+D:\THACO\TEST\Example_Project\Example_Project\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\THACO\TEST\Example_Project\Example_Project\Repository\obj\Debug\net6.0\ref\Repository.dll
